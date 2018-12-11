@@ -2,7 +2,8 @@
 
 <a name="intro"></a>
 # KNIS - Exploration Game
-Notes
+Exploration crawler. Think Hyper Light Drifter controls mixed with Sunless Sea exploration, achievement-seeking of Guild Wars 2 and the atmospheric journey of Below.
+
 Technical
 
 Base frame: 256 x 144 px (make multiples of this or extrapolation)
